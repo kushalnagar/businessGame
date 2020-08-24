@@ -1,4 +1,4 @@
-package com.kushal.thoughtworks.beans;
+package com.kushal.myproject.beans;
 
 public class EmptyCell extends CellType {
   private static CellType emptyCellType = new EmptyCell();

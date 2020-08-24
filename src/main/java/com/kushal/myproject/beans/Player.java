@@ -1,4 +1,4 @@
-package com.kushal.thoughtworks.beans;
+package com.kushal.myproject.beans;
 
 import java.util.ArrayList;
 import java.util.List;

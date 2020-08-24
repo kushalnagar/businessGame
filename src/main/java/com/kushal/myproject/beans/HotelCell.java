@@ -1,4 +1,4 @@
-package com.kushal.thoughtworks.beans;
+package com.kushal.myproject.beans;
 
 public class HotelCell extends CellType {
 

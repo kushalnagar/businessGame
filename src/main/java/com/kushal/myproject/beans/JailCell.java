@@ -1,4 +1,4 @@
-package com.kushal.thoughtworks.beans;
+package com.kushal.myproject.beans;
 
 public class JailCell extends CellType{
   private static CellType jailCellType = new JailCell();

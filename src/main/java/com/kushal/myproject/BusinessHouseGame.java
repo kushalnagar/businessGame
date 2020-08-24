@@ -1,8 +1,8 @@
-package com.kushal.thoughtworks;
+package com.kushal.myproject;
 
-import com.kushal.thoughtworks.beans.Board;
-import com.kushal.thoughtworks.beans.Cell;
-import com.kushal.thoughtworks.beans.Player;
+import com.kushal.myproject.beans.Board;
+import com.kushal.myproject.beans.Cell;
+import com.kushal.myproject.beans.Player;
 
 import java.util.ArrayList;
 import java.util.List;
